@@ -1,0 +1,1 @@
+o_game.stage=1;

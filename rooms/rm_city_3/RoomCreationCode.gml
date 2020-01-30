@@ -1,0 +1,1 @@
+o_game.chest_collected=0;

@@ -1,0 +1,1 @@
+o_game.chests = 0;
