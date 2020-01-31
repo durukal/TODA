@@ -16,7 +16,7 @@ drag = .12;
 
 //facing left <= 0 1 => right
 facing = 1;
-
+air_attack = false;
 //set rm_00 start
 room_start_pos_x = 50;
 room_start_pos_y = 155;

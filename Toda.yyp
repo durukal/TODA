@@ -135,6 +135,14 @@
             }
         },
         {
+            "Key": "09c42fb9-5afa-4ad9-9569-d84d2301fc0f",
+            "Value": {
+                "id": "7f340619-4de5-48e4-9371-931bea0b5542",
+                "resourcePath": "sprites\\s_player_attack_air_hitbox\\s_player_attack_air_hitbox.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "0adfdc81-37ec-46a0-9388-5b4bc781a5af",
             "Value": {
                 "id": "dfde7f89-a0ad-4028-84fa-3a00d39149b8",
@@ -652,6 +660,14 @@
                 "id": "d03bf067-a2f9-44f5-96e2-13a1ee3e7daa",
                 "resourcePath": "scripts\\jump_dust\\jump_dust.yy",
                 "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "301eb1b6-7a2e-4759-9012-03eea18b98d6",
+            "Value": {
+                "id": "e880d3c1-972c-4249-9b14-37c825490323",
+                "resourcePath": "objects\\o_player_air_attack_hitbox\\o_player_air_attack_hitbox.yy",
+                "resourceType": "GMObject"
             }
         },
         {

@@ -20,6 +20,7 @@ if (image_index >= image_number - 1) {
 		show_msg("Press Jump to Restart",1);
 		get_input();
 		if jump or attack {			
+			o_game.restart = true;
 			fade_to_room(room, room_start_pos_x, room_start_pos_y, room_start_facing, c_black);
 			//allow instant camera panning
 			with(o_camera) {

@@ -4,7 +4,7 @@ check_enemy_hp();
 //calculate movement
 calc_entity_movement();
 //attack
-var detect_player_dis = 10;
+var detect_player_dis = 30;
 var player_alert = false;
 
 if (distance_to_object(o_player) < detect_player_dis) and sign(o_player.x - x) == facing {

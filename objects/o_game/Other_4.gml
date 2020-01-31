@@ -1,6 +1,11 @@
 /// @description 
 // tiles
 // get tile map
+
+civilians_freed = 0;
+
+//Chests
+chest_collected = 0;
 global.map = layer_tilemap_get_id("Collisions");
 global.tile_size = 32;
 
@@ -26,3 +31,14 @@ else {
 	// play game music
 	if audio_is_playing(snd_game) audio_stop_sound(snd_game);
 }
+
+//switch(room){
+//	case rm_town:
+//	civilians = 6;
+//	break;
+//	case rm_forest1:
+//	chests = 0;
+//	break;
+//	case rm_forest1:
+	
+//}

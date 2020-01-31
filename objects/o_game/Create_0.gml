@@ -24,6 +24,7 @@ civilians_freed = 0;
 //Chests
 chests = 0;
 chest_collected = 0;
+restart = false;
 
 // main menu
 current_frame = 0;

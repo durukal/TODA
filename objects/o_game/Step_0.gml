@@ -4,7 +4,9 @@ if game_over_lose{
 	with(o_player){
 		get_input();
 		if jump or attack {
+
 			game_restart();
+
 		}
 	}
 }

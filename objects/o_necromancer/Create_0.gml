@@ -2,7 +2,7 @@
 //to run parent code just like super()
 event_inherited();
 ///
-hp = 5;
+hp = 20;
 hsp = 0;
 max_hsp_initial = 2;
 max_hsp = max_hsp_initial;

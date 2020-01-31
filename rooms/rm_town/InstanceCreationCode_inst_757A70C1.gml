@@ -1,3 +1,3 @@
-target_rm = rm_forest4;
-target_x = 32;
-target_y = 636;
+target_rm = rm_castle_boss;
+target_x = 68;
+target_y = 101;

@@ -4,6 +4,7 @@ if action and !other.open and hp > 0 and (on_ground()) {
 			image_speed = 8;
 			audio_play_sound(snd_civillian_save, 50, false);
 			o_game.chest_collected++;
+			
 		}
 }
 if room == rm_city_4 and o_game.chest_collected==2{

@@ -18,6 +18,7 @@ if on_ground() {
 
 if attack {
 	state = states.ATTACK;
+	air_attack = true;
 	//image_index = 0;
 }
 
